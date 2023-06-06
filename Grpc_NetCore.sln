@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc_NetCore", "Grpc_NetCore\Grpc_NetCore.csproj", "{5DFA5E7A-13DB-4517-8C49-EEEA2210AD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc_Client", "Grpc_Client\Grpc_Client.csproj", "{3F5F85CF-CD61-4896-A497-3E53A490865D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA5E7A-13DB-4517-8C49-EEEA2210AD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA5E7A-13DB-4517-8C49-EEEA2210AD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA5E7A-13DB-4517-8C49-EEEA2210AD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA5E7A-13DB-4517-8C49-EEEA2210AD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5F85CF-CD61-4896-A497-3E53A490865D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5F85CF-CD61-4896-A497-3E53A490865D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5F85CF-CD61-4896-A497-3E53A490865D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5F85CF-CD61-4896-A497-3E53A490865D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D75286-AB9E-406B-A609-D5D7BC4DA96E}
+	EndGlobalSection
+EndGlobal
